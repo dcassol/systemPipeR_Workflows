@@ -1,0 +1,2 @@
+# RNASeq-denovo Workflow Template
+
