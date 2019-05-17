@@ -59,7 +59,16 @@ Backman, T.W.H and Girke, T. (2016). *systemPipeR*: NGS Workflow and Report Gene
 
 # *systemPipeR*'s New CWL Command-line Interface
 
-Computational workflows are becoming increasingly important for advanced scientific research, mainly because of the amount of data output by next-generation sequencing technologies. Workflows typically are composed of multiple software tools, or pipelines, each with a specific set of parameters, a different configuration of the input data and also the output results. Reproducibility and scalable are the main concern when a research workflow is designed. Although several tools for managing and executing workflow systems are available, they are designed to offer a specific set of functionalities. To address this need, we have developed a new tool (new CWL S4 Class) to create and run workflows, integrating the Common Workflow Language (CWL), which provide a standard for describing analysis workflows in a generic and reproducible manner.
+Computational workflows are becoming increasingly important for advanced scientific research,
+mainly because of the amount of data output by next-generation sequencing technologies. 
+Workflows typically are composed of multiple software tools, or pipelines, each with a specific
+set of parameters, a different configuration of the input data and also the output results. 
+Reproducibility and scalable are the main concern when a research workflow is designed. 
+Although several tools for managing and executing workflow systems are available, they are designed 
+to offer a specific set of functionalities. To address this need, we have developed a new tool 
+(`sysagrs2` - S4 Class) to create and run workflows with `systempipeR` package, integrating the Common Workflow Language (CWL),
+which provide a standard for describing analysis workflows in a generic and reproducible manner.
+
 
 ## CWL Introduction 
 <!--
