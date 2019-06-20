@@ -256,3 +256,15 @@ write.table(read_statsDF_READS, "results/alignStats_READS_unique.xls", row.names
 ```
 
 
+# Version Information
+
+```{r sessionInfo}
+sessionInfo()
+```
+
+# Funding
+
+This project was supported by funds from the National Science Foundation (NSF).
+
+# References
+
