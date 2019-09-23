@@ -1,0 +1,3 @@
+M1A: gunzip -c ./data/SRR446027_1.fastq.gz > data/M1A.fastq
+
+################

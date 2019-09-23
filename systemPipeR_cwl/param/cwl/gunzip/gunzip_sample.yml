@@ -3,7 +3,7 @@
 ################################################################
 fq1:
   class: File
-  path: /home/dcassol/danielac@ucr.edu/github/cwl/systemPipeRcwl/data/SRR446027_1.fastq.gz #_FASTQ_PATH_
+  path: /home/dcassol/danielac@ucr.edu/github/systemPipeR_workflows/systemPipeR_cwl/data/SRR446027_1.fastq.gz
   
 SampleName: SRR446027_1 #_SampleName_
 
